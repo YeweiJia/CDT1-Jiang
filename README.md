@@ -10,7 +10,7 @@ To run the scripts in this repository, follow these steps:
 
 ###Change into the project directory:
 cd your-repo
-###Download the datasets using wget:
+###Download the datasets code original R code.
 
 ### Running the Scripts
 Before running the R scripts, make sure you've downloaded and extracted the datasets as instructed above.

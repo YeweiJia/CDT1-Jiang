@@ -16,3 +16,11 @@ cd your-repo
 Before running the R scripts, make sure you've downloaded and extracted the datasets as instructed above.
 
 To run the script, open R and execute the following commands:
+# Load required packages
+library(package_name)
+
+# Set working directory
+setwd("path/to/your/repo")
+
+# Run the script
+source("script_name.R")
